@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b + 100 # Изменено
+    return a + b + 100   # заменили 1 на 100
 
 def subtract(a, b):
     return a - b
