@@ -1,8 +1,8 @@
 def add(a, b):
-    return a + b + 100   # заменили 1 на 100
+    return a + b + 500   #Заменили 1 на 500
 
 def subtract(a, b):
-    return a - b
+    return a - b - 100   #Изменили
 
 def multiple(a,b):
     return a*b
